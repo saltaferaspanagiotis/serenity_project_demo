@@ -1,4 +1,4 @@
-Feature: Search by keyword
+Feature: Demo
 
   @Test1
   Scenario: Navigate to Test Automation Playground
